@@ -1,4 +1,5 @@
 require './lib/intro_to_simple_array_manipulations.rb'
+require 'pry'
 
 
 describe "using_push" do 
